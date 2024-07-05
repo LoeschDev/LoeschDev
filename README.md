@@ -23,4 +23,4 @@
 
 ### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
 
-[![spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]
+![spotfy](https://github.com/LoeschDev/LoeschDev/assets/165175316/477a5e6f-25a4-450d-ba8a-73dbf94c36b3)
