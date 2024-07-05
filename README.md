@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Loesch 👋
 
 ## Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/daniel-henrique-loesch-luis-alves-a3861922b](https://www.linkedin.com/in/daniel-henrique-loesch-luis-alves-a3861922b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/loeschdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielloesch_/)
 
 ![Loesch GitHub stats](https://github-readme-stats.vercel.app/api?username=LoeschDev&show_icons=true&theme=radical)
