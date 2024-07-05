@@ -21,4 +21,6 @@
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 </div><br/>
 
-### Explorando o universo da programação em busca de novos desafios e aprendizados.
+### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
+
+[![spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]
