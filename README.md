@@ -25,6 +25,5 @@
 </div><br/>
 
 ### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
-
 <img src="https://github.com/LoeschDev/LoeschDev/assets/165175316/477a5e6f-25a4-450d-ba8a-73dbf94c36b3" width="30">
 
