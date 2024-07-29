@@ -16,8 +16,7 @@
 </div>
                   
 ## Bancos
-<img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+<img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 </div><br/>
 
 ### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
