@@ -17,7 +17,8 @@
 ## Bancos
 <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
-</div><br/>
+</div>
+
 ### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> 
 <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
