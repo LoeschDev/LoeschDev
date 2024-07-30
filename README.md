@@ -8,8 +8,8 @@
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
-<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.lua.org" target="_blank" rel="noopener noreferrer"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></a>
