@@ -14,10 +14,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
                   
 ## Bancos
-<a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
 </div>
 
@@ -25,3 +25,6 @@
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> 
 <a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer"><img alt="Alura" src="https://img.shields.io/badge/Alura-139AD6?style=for-the-badge&logo=alura&logoColor=white"/></a>
 <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+
+## Estatísticas de Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoeschDev&layout=compact&theme=radical)
