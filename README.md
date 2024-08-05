@@ -23,4 +23,5 @@
 
 ### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> 
+<a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer"><img alt="Alura" src="https://img.shields.io/badge/Alura-139AD6?style=for-the-badge&logo=alura&logoColor=white"/></a>
 <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
