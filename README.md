@@ -27,7 +27,7 @@
   <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
 </div>
 
-### Sou um jovem apaixonado por tecnologia, com hobbies que incluem música e programação, sempre explorando e criando novas experiências.
+### Com um amor por música e programação, estou sempre buscando novas experiências e desafios.
 
 <div style="display: inline_block"><br/>
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> 
