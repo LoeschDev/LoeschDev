@@ -27,8 +27,7 @@
   <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
 </div>
 
-### Com um amor por música e programação, estou sempre buscando novas experiências e desafios.
-
+### Meus hobbies incluem música e programação, e estou sempre em busca de novas experiências e desafios.
 <div style="display: inline_block"><br/>
 <a href="https://www.udemy.com" target="_blank" rel="noopener noreferrer"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a> 
 <a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer"><img alt="Alura" src="https://img.shields.io/badge/Alura-139AD6?style=for-the-badge&logo=alura&logoColor=white"/></a>
