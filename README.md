@@ -11,7 +11,7 @@
   <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>
   <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></a>
   <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img align="center" alt="JavaScript" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" />
   <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
 </div>
 
@@ -19,7 +19,6 @@
 <div style="display: inline_block"><br/>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img align="center" alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noopener noreferrer"><img align="center" alt="DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" />
 </a>
 
 </div>
