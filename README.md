@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Daniel Loesch  
 
-Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando novos desafios e aprendizados.  
-
+Busco constantemente evoluir como profissional, explorando diferentes linguagens, ferramentas e metodologias para criar soluções impactantes.
 
 ## 🌐 Minhas Redes  
 <a href="https://www.linkedin.com/in/loeschdev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.instagram.com/danielloesch_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
