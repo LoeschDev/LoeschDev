@@ -38,6 +38,5 @@ Busco constantemente evoluir como profissional, explorando diferentes linguagens
 Sou apaixonado por música e programação, sempre em busca de novas experiências!  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer"><img align="center" alt="Alura" height="50" width="50" src="https://img.shields.io/badge/Alura-139AD6?style=for-the-badge&logo=alura&logoColor=white"></a>  
   <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="Spotify" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" /></a>  
 </div>  
