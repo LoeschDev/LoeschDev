@@ -1,42 +1,32 @@
-# 👋 Olá! Eu sou o Daniel Loesch  
+# **Daniel Loesch** 
+#### 💻 Desenvolvedor Backend Junior | Java | Spring | SQL
 
-Busco constantemente evoluir como profissional, explorando diferentes linguagens, ferramentas e metodologias para criar soluções impactantes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loeschdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/danielloesch_/)
 
-## 🌐 Minhas Redes  
-<a href="https://www.linkedin.com/in/loeschdev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://www.instagram.com/danielloesch_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+---
 
+## **🛠 Stack Tecnológica**
 
-## 📊 Estatísticas  
-![Loesch GitHub stats](https://github-readme-stats.vercel.app/api?username=LoeschDev&show_icons=true&theme=radical)  
+### **Foco Atual**
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com)  
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
 
+### **Experiência Anterior**
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)  
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)  
 
-## 💻 Meu Histórico com Tecnologias 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /></a>  
-  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></a>  
-  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>  
-</div>  
+---
 
+## **📊 GitHub Stats**  
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoeschDev&show_icons=true&theme=default&hide_title=true&hide=stars,prs,issues,contribs&count_private=true&bg_color=00000000&text_color=777777&icon_color=2bbc8a)  
 
-## 🚀 Atualmente Estou Aprendendo  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>  
-  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></a>  
-</div>  
+---
 
-
-## 🗄️ Bancos de Dados  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
-  <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></a>  
-</div>  
-
-
-## 🎧 Hobbies  
-Sou apaixonado por música e programação, sempre em busca de novas experiências!  
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer"><img align="center" alt="Spotify" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" /></a>  
-</div>  
+## 📌 Sobre Mim  
+- 🎓 Estudante de **Sistemas de Informação**  
+- 🌱 Atualmente focado em **Java/Spring** para desenvolvimento backend  
+- 💡 Conhecimentos em **bancos de dados relacionais**  
