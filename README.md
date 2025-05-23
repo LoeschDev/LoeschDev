@@ -30,6 +30,6 @@
 ---
 
 ## 📌 Sobre Mim  
-- 🎓 Estudante de **Sistemas de Informação**  
+- 🎓 Estudante de **Sistemas de Informação** - 4° período
 - 🌱 Atualmente focado em **Java/Spring** para desenvolvimento backend  
 - 💡 Conhecimentos em **bancos de dados relacionais**  
